@@ -1,0 +1,17 @@
+.details {
+    text-align: center;
+}
+
+.details img {
+    width: 100%;
+}
+
+.button {
+    padding: 10px 30px;
+    background: steelblue;
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    margin: 20px 0;
+}
